@@ -4,7 +4,7 @@ return {
     "catppuccin/nvim",
     name = "catppuccin",
     opts = {
-      flavour = "macchiato",
+      flavour = "mocha",
     },
   },
   -- Configure LazyVim to load catppuccin
