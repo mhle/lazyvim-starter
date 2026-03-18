@@ -4,3 +4,6 @@
 
 -- Enable this for copilot extra
 vim.g.ai_cmp = false
+
+-- Enable this to set the root directory to the current working directory instead of searching for a .git or other root markers
+vim.g.root_spec = { "cwd" }
